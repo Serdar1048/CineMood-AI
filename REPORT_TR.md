@@ -1,7 +1,7 @@
 # Proje Raporu: IMDB Duygu Analizi (Sentiment Analysis)
 
 ## 1. Proje Özeti
-Bu proje, 50.000 IMDB film yorumundan oluşan bir veri setini kullanarak metin verilerini sınıflandırmayı amaçlar. Kullanıcı yorumlarının duygu durumunu (pozitif/negatif) tahmin etmek için üç farklı Ardışık Sinir Ağı (RNN) mimarisi kıyaslanmıştır.
+Bu proje, Kaggle üzerinden temin edilen [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) verisetini kullanarak metin verilerini sınıflandırmayı amaçlar. Kullanıcı yorumlarının duygu durumunu (pozitif/negatif) tahmin etmek için üç farklı Ardışık Sinir Ağı (RNN) mimarisi kıyaslanmıştır.
 
 ## 2. Metodoloji ve İş Akışı
 

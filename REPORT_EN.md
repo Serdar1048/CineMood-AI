@@ -1,7 +1,7 @@
 # Project Report: IMDB Sentiment Analysis
 
 ## 1. Project Overview
-This project aims to classify 50,000 IMDB movie reviews based on their sentiment. Three different Recurrent Neural Network (RNN) architectures were compared to achieve the most accurate sentiment prediction (positive/negative).
+This project aims to classify movie reviews based on the [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) available on Kaggle. Three different Recurrent Neural Network (RNN) architectures were compared to achieve the most accurate sentiment prediction (positive/negative).
 
 ## 2. Methodology and Workflow
 

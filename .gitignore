@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Data
+IMDB Dataset.csv
+
+# Models (Optional: Comment out if you want to push them)
+# sentiment_model.h5
+# tokenizer.pickle
+
+# IDEs
+.vscode/
+.idea/
