@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+tensorflow
+beautifulsoup4
+nltk
+scikit-learn
+h5py
